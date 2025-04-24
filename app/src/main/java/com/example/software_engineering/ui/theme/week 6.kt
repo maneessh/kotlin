@@ -105,18 +105,18 @@ fun main(){
     var myCharRange = 'a'.rangeTo('j')
     var testCharRange = 'a'
 
-    var check = 'Z' in testCharRange
-    println("mycharRange has z : $check")
+    //var check = 'Z' in testCharRange
+    //println("mycharRange has z : $check")
     println(myCharRange)
     println(testCharRange)
 
     //console Input in Android App Development
 
-    println("Enter name :: ")
-    var name:String? = readln();
+   // println("Enter name :: ")
+    //var name:String? = readln();
 
-    println("Enter age :: ")
-    var age:Int = readln()!!.toInt();
+   // println("Enter age :: ")
+   // var age:Int = readln()!!.toInt();
 
 
 
